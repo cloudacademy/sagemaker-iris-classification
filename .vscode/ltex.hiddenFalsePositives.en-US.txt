@@ -1,0 +1,1 @@
+{"rule":"POSSESSIVE_APOSTROPHE","sentence":"^\\QRun the following cell to load the dataset into a Pandas data frame and display the first few rows.\\E$"}
